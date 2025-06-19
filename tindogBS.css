@@ -1,0 +1,70 @@
+h1, h2 {--bs-body-font-family:"Montserrat", sans-serif;
+      }
+
+
+.clr1{background-color:#ff4c68;
+        color:white;
+       }
+
+.navbar{--bs-gutter-x:0;}
+
+.navbar-brand{font-family: 'Ubuntu', sans-serif;
+                font-weight: 900;
+                --bs-navbar-brand-font-size:2rem;
+                --bs-gutter-x:0;
+
+
+                }
+
+.row{padding-top:55px;}
+
+.nav-item {padding-left:50px;}
+
+.nav-link {--bs-nav-link-font-size:1.2rem;
+            --bs-body-font-family:"Montserrat-light";}
+.btnB{margin: 5% 3% 5% 0;}
+
+.feature{padding-bottom:50px;
+        text-align:center;
+
+}
+
+.ftr-img{ padding:50px 0 20px 0;}
+
+p{color:#8f8f8f;}
+.h3{--bs-body-font-family:"Montserrat";
+         }
+
+#testimonials{text-align:center;
+              padding:100px 30px;}
+
+.testimonials-img{border-radius:100%;
+                   margin-top:20px;
+                   width:200px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
