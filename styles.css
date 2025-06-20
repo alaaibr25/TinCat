@@ -5,6 +5,7 @@ h1, h2 {--bs-body-font-family:"Montserrat", sans-serif;
 .clr1{background-color:#ff4c68;
         color:white;
        }
+.clr2{color:#ff4c68;}
 
 .navbar{--bs-gutter-x:0;}
 
